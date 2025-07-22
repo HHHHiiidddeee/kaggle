@@ -1,2 +1,2 @@
 # kaggle
-Contains notebooks for Kaggle competition
+Contains notebooks for Kaggle competition.
